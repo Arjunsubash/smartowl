@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "606895789893",
+    "firebase_url": "https://smartowl-9f61e.firebaseio.com",
+    "project_id": "smartowl-9f61e",
+    "storage_bucket": "smartowl-9f61e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606895789893:android:3199c08b7364e947",
+        "android_client_info": {
+          "package_name": "com.example.android.smartowl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606895789893-mo2rjlqvlbpnsbnolcs74nbbgk2p7bhl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.smartowl",
+            "certificate_hash": "927f6ea6e2bb36b280e61b5ee8c7283c9c7f422d"
+          }
+        },
+        {
+          "client_id": "606895789893-v0ghnspj9g9evpj6flrb8gi41biebeqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdualu5Tp3kjCYvnLqbG5QgSylZUZJPOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606895789893-v0ghnspj9g9evpj6flrb8gi41biebeqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
